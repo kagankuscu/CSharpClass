@@ -1,0 +1,30 @@
+Id,Name,IconCssClass
+1:int,Kaya Inişi:string,abseiling:string
+2:int,Okçuluk:string,archery:string
+3:int,Basketbol:string,baseball:string
+4:int,Bisiklet:string,bicycling:string
+5:int,Tırmanış:string,climbing:string
+6:int,Golf:string,golf:string
+7:int,Planörle uçma sporu:string,hand-gliding:string
+8:int,Binicilik:string,horse-riding:string
+9:int,Paten:string,inline-skating:string
+10:int,Motorsiklet:string,motorbike-trail:string
+11:int,Kaykay:string,skateboarding:string
+12:int,Tenis:string,tennis:string
+13:int,Yürüyüş:string,trail-walking:string
+14:int,Tekne:string,boating:string
+15:int,Kano:string,canoe:string
+16:int,Dalış:string,diving:string
+17:int,Balıkçılık:string,fishing:string
+18:int,Iskele Balıkçılık:string,fishing-pier:string
+19:int,Rafting:string,rafting:string
+20:int,Yelkencilik:string,sailing:string
+21:int,Tüplü Dalış:string,scuba-diving:string
+22:int,Sörf:string,surfing:string
+23:int,Yüzme:string,swimming:string
+24:int,Su kayağı:string,waterskiing:string
+25:int,Su sörfü:string,wind-surfin:string
+26:int,Kayak:string,skiing:string
+27:int,Buz pateni:string,ice-skating:string
+28:int,Kayakla atlama:string,ski-jumping:string
+29:int,Snowboard:string,snowboarding:string
